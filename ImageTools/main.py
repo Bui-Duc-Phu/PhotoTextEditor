@@ -40,7 +40,7 @@ class ImageEditorApp:
         self.scale_width_entry = tk.Entry(self.frame_left)
         self.scale_width_entry.pack()
 
-        tk.Label(self.frame_left, text="Tỉ lệ chiều cao (1-100%):\n (bằng x% của chiều dài)").pack()
+        tk.Label(self.frame_left, text="Tỉ lệ chiều cao (1-100%):\n (bằng y% của chiều dài)").pack()
         self.scale_height_entry = tk.Entry(self.frame_left)
         self.scale_height_entry.pack()
 
