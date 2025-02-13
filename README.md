@@ -20,7 +20,7 @@ Sau khi tải về, bạn có thể mở ứng dụng bằng cách chạy file `
 Nhấn nút **"Chọn ảnh"** để tải ảnh lên từ máy tính của bạn.
 
 ### 3️⃣ Chỉnh sửa ảnh
-- Nhập **tỷ lệ chiều rộng** và **chiều cao** để thay đổi kích thước (số liệu nhập vào sẽ bằng x% chiều rộng và y% chiều dài ban đầu).
+- Nhập **tỷ lệ chiều rộng** và **chiều cao** để thay đổi kích thước ( số liệu nhập vào sẽ bằng X% chiều rộng và Y% chiều dài ban đầu).
 - Nhập **văn bản** để chèn vào ảnh (có thể bỏ trống nếu không muốn chèn chữ).
 - Chọn **màu chữ** (nếu không nhập, mặc định là **trắng** `#FFFFFF`).
 - Nhập **cỡ chữ** (nếu không nhập, mặc định là **20px**).
